@@ -1,4 +1,4 @@
-# UzaySimulasyonu
+# Uzay Simulasyonu
 # İsim : Murat
 # Soyisim : Yılmaz
 # Öğrenci Numarası : 24360859024
